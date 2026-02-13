@@ -1,9 +1,6 @@
 Amazon Prime Video Dashboard using Power BI
 ===========================================
 
-Preview
--------
-
 Overview
 --------
 
